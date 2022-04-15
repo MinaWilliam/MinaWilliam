@@ -1,13 +1,3 @@
-[comment]: <> ([![Header]&#40;https://raw.githubusercontent.com/MinaWilliam/MinaWilliam/main/images/gh-banner.jpg "Header"&#41;]&#40;https://github.com/MinaWilliam/&#41;)
-
-<h3 align="center">
-  Welcome to Mina William's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-<p align="center">
-  <img alt="Mina William's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=minawilliam&theme=dracula&date_format=j%20M%5B%20Y%5D" height="192px"/>
-</p>
-
 ### 🔭  Projects:
 <details>
   <summary><a href="http://baims.com">Baims</a></summary>
