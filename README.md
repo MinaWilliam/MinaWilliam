@@ -1,5 +1,5 @@
 <p align="center">
-		<img alt="Mina William's Banner" src="https://github.com/MinaWilliam/MinaWilliam/blob/main/static/images/banner.png">
+		<img alt="Mina William's Banner" src="https://github.com/MinaWilliam/MinaWilliam/blob/main/images/banner.png">
 </p>
 
 <p align="center">
