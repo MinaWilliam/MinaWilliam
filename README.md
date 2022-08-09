@@ -1,3 +1,29 @@
+<p align="center">
+		<img alt="Mina William's Banner" src="https://github.com/MinaWilliam/MinaWilliam/blob/main/static/images/banner.png">
+</p>
+
+<p align="center">
+		<img alt="Mina William's Welcome Message" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Mina's+GitHub+page+:)&center=true&width=450&height=55">
+</p>
+
+
+<p align="center">
+  <img alt="Mina William's Streak Stats"
+     src="https://github-readme-streak-stats.herokuapp.com/?user=minawilliam&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
+</p>
+
+<p align="center">
+  <img alt="Mina Williams's Github Stats"
+     src="https://denvercoder1-github-readme-stats.vercel.app/api?username=minawilliam&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+</p>
+
+<p align="center">
+	<a href="http://zalt.me">
+		<img alt="Mina William's Activity Graph"
+			 src="https://activity-graph.herokuapp.com/graph?username=minawilliam&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
+	</a>
+</p>
+
 ### 🔭  Projects:
 <details>
   <summary><a href="http://baims.com">Baims</a></summary>
