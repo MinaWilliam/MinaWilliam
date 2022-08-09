@@ -1,8 +1,4 @@
 <p align="center">
-		<img alt="Mina William's Banner" src="https://github.com/MinaWilliam/MinaWilliam/blob/main/images/banner.png">
-</p>
-
-<p align="center">
 		<img alt="Mina William's Welcome Message" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Mina's+GitHub+page+:)&center=true&width=450&height=55">
 </p>
 
