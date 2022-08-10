@@ -63,4 +63,4 @@
 ### 📊 Stats
 
 1. 🎉 Merged PR [#297](https://github.com/troydavisson/PHRETS/pull/297) in [troydavisson/PHRETS](https://github.com/troydavisson/PHRETS)
-2. 🎉 Merged PR [#5](https://github.com/mblsolutions/simfoni-php/pull/5) in [mblsolutions/simfoni-php](https://github.com/mblsolutions/simfoni-php)
+2. 🎉 Merged PR [#6](https://github.com/mblsolutions/simfoni-php/pull/6) in [mblsolutions/simfoni-php](https://github.com/mblsolutions/simfoni-php)
