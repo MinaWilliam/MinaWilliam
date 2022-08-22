@@ -13,13 +13,6 @@
      src="https://denvercoder1-github-readme-stats.vercel.app/api?username=minawilliam&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
 </p>
 
-<p align="center">
-	<a href="http://zalt.me">
-		<img alt="Mina William's Activity Graph"
-			 src="https://activity-graph.herokuapp.com/graph?username=minawilliam&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
-	</a>
-</p>
-
 ### 🔭  Projects:
 <details>
   <summary><a href="http://baims.com">Baims</a></summary>
