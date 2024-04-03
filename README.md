@@ -1,48 +1,23 @@
-<p align="center">
-		<img alt="Mina William's Welcome Message" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Mina's+GitHub+page+:)&center=true&width=450&height=55">
-</p>
+## Mina William - Senior Software Engineer
 
-### 🔭  Projects:
-<details>
-  <summary><a href="http://baims.com">Baims</a></summary>
-  an educational website and App that offers recorded courses and live sessions for
-  university and high school students in the Middle East.
-  
-  ![Header](https://raw.githubusercontent.com/MinaWilliam/MinaWilliam/main/images/baims.png "Baims")
-</details>
-<details>
-  <summary><a href="https://homesearchbymortgage.com">Home Search by Mortgage</a></summary>
-  a search engine for real estate in the USA that provides agents with
-  recommendations for their homebuyers clients based on their needs.
-  
-  ![Header](https://raw.githubusercontent.com/MinaWilliam/MinaWilliam/main/images/sbmp.png "Home Search")
-</details>
-<details>
-  <summary><a href="https://reachlnk.com">Reach</a></summary>
-  a social app that allows you to share all your social contacts through one link.
-  
-  ![Header](https://raw.githubusercontent.com/MinaWilliam/MinaWilliam/main/images/reach.png "Reach")
-</details>
-<details>
-  <summary><a href="https://cybertalents.com">Cybertalents</a></summary>
-  a platform for connecting tech companies with top talented cybersecurity
-  professionals.
-</details>
-<details>
-  <summary><a href="https://www.mosawer.net">Mosawer</a></summary>
-  a platform that helps clients to find and book professional photographers in the MENA
-  region.
+Experienced software engineer skilled in building scalable web applications, particularly within e-learning, eCommerce, and fintech.
 
-  ![Header](https://raw.githubusercontent.com/MinaWilliam/MinaWilliam/main/images/mosawer.png "Mosawer")
-</details>
-<details>
-  <summary><a href="https://www.mosawer.net">Details portfolio</a></summary>
-  a portfolio for an architecture & interior design company.
-  
-  ![Header](https://raw.githubusercontent.com/MinaWilliam/MinaWilliam/main/images/details.png "Details design")
-</details>
+### 🛠️ Skills & Tools
 
-### 📊 Stats
+* **Backend Development:** PHP (Laravel), JavaScript (Node.js), Golang
+* **Databases:** MySQL, Redis, Elastic Search
+* **Cloud:** AWS (EC2, S3, Lambda, etc.), Vapor
+* **Methodologies & Tools:** TDD, DDD, OOP, Microservices, CI/CD, Docker
 
-1. 🎉 Merged PR [#297](https://github.com/troydavisson/PHRETS/pull/297) in [troydavisson/PHRETS](https://github.com/troydavisson/PHRETS)
-2. 🎉 Merged PR [#6](https://github.com/mblsolutions/simfoni-php/pull/6) in [mblsolutions/simfoni-php](https://github.com/mblsolutions/simfoni-php)
+**Practices:**
+* TDD, DDD, OOP, Microservices, CI/CD, Docker
+
+### 📊 Contributions
+
+* **Merged PR [#297](https://github.com/troydavisson/PHRETS/pull/297) in [troydavisson/PHRETS](https://github.com/troydavisson/PHRETS)**
+* **Merged PR [#6](https://github.com/mblsolutions/simfoni-php/pull/6) in [mblsolutions/simfoni-php](https://github.com/mblsolutions/simfoni-php)**
+* **Merged PR [#50903](https://github.com/laravel/framework/pull/50903) in [laravel/framework](https://github.com/laravel/framework)**
+
+### 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/minawilliam/) | Mwfayez@gmail.com
