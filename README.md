@@ -1,6 +1,6 @@
 ## Mina William - Senior Software Engineer
 
-Experienced software engineer skilled in building scalable web applications, particularly within e-learning, eCommerce, and fintech.
+Experienced software engineer crafting scalable systems, particularly within e-learning, eCommerce, travel, tourism, and fintech.
 
 ### 🛠️ Skills & Tools
 
