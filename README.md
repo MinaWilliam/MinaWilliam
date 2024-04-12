@@ -9,9 +9,6 @@ Experienced software engineer crafting scalable systems, particularly within e-l
 * **Cloud:** AWS (EC2, S3, Lambda, etc.), Vapor
 * **Methodologies & Tools:** TDD, DDD, OOP, Microservices, CI/CD, Docker
 
-**Practices:**
-* TDD, DDD, OOP, Microservices, CI/CD, Docker
-
 ### 📊 Contributions
 
 * **Merged PR [#297](https://github.com/troydavisson/PHRETS/pull/297) in [troydavisson/PHRETS](https://github.com/troydavisson/PHRETS)**
